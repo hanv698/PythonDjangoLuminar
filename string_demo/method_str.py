@@ -10,3 +10,4 @@ print(name)
 name=name.rstrip("ese")
 print(name)
 
+
