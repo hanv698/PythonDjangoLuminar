@@ -3,9 +3,6 @@ c=((n-1)*2)-1
 
 if(n>2):
     for row in range(1,n+1):
-    #if (n <= 2):
-     #   print("Invalid")
-      #  break
         for col in range(1,c+1):
             if((row==n)|(col+row==n)|(col-row==n-2)):
                 print("*",end="")
