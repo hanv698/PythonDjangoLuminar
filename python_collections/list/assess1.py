@@ -14,3 +14,7 @@ for i in range(0,len(list_1)):
     else:
         list_2.append(list_1[i-1]+list_1[i-2])
 print("list_2:",list_2)
+
+#another way
+#find total
+#total-number
