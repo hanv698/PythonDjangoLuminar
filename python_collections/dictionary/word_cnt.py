@@ -1,13 +1,10 @@
 word="hello hai hello hai hello"
 
-wrd=word.split(" ")
-
-#for i in words:
- #   print(i,":",words.count(i))
+wd=word.split(" ")
 
 words={}
-for i in wrd:
-    words[i]=wrd.count(i)
+for i in wd:
+    words[i]=wd.count(i)
 print(words)
 
 
