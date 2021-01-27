@@ -5,7 +5,6 @@ dict={}
 for lines in f:
     data=lines.rstrip("\n").split(",")
     year=data[2]
-    count=0
     if(year not in dict):
         dict[year]=1
     else:
