@@ -2,7 +2,7 @@ from re import *
 
 mob_no=input("Enter Mobile no:")
 
-rule="(91)\d{10}"
+rule="\d{10}"
 
 matcher=fullmatch(rule,mob_no)
 
