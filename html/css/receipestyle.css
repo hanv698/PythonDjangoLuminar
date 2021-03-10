@@ -1,0 +1,51 @@
+body{
+    background-image: url(fruitdip.jpeg);
+}
+h1{
+    text-align: center;
+    padding-top: 1%;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+#fs{
+    background-color: hotpink;
+    width:30%;
+    border-width: 1px;
+    border-style: groove;
+    margin-left: 35%;
+    margin-top: 3%;
+    /*background-image:url(fruitsmoothie.jpeg) ;*/
+    
+    
+}
+#fd{
+    background-color: hotpink;
+    width:30%;
+    border-style: groove;
+    border-color: azure;
+    border-width: 1px;
+    margin-left: 35%;
+    margin-top: 3%;
+}
+#hp{
+    background-color: hotpink;
+    width:30%;
+    border-width: 3px;
+    border-color: azure;
+    border-style:groove;
+    margin-left: 35%;
+    margin-top: 3%;
+    
+}
+#fs1{
+    color:rgb(8, 10, 151);
+
+}
+#fd1{
+    color:rgb(8,10,151);
+}
+#hp1{
+    color:rgb(8,10,151);
+}

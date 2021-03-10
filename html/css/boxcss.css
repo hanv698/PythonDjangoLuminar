@@ -1,0 +1,19 @@
+.top{
+    height: 70px;
+    width: 60%;
+    background-color: brown;
+    margin-left: 25%;
+    padding-top: 5px;
+    font-size: medium;
+}
+.bottom{
+    height: 70px;
+    width: 60%;
+    background-color: brown;
+    margin-top: 25%;
+    padding-top: 5px;
+    margin-left: 25%;
+    font-size: medium;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

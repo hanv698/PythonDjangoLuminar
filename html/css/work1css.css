@@ -1,0 +1,39 @@
+h1{
+    margin-top: 30px;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+    color:chocolate;
+    
+    
+}
+
+div{
+    width: 17%;
+    height: 300px;
+    margin-left: 2%;
+    margin-top:2%
+}
+
+.blue{
+    background-color: blue;
+    float: left;
+
+}
+.lblue{
+    background-color: lightblue;
+    float: left;
+}
+
+.red{
+    background-color: red;
+    float: left;
+}
+.yellow{
+    background-color: yellow;
+    float: left;
+}
+.ivory{
+    background-color: rgb(116, 6, 6);
+    float: left;
+}

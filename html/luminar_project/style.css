@@ -1,0 +1,42 @@
+.rw1{
+    background-color:#5e068a; 
+    color:white;
+}
+.navbar{
+    position: sticky;
+    background-color: white;
+
+}
+a{
+    color:black;
+    font-size: 14px;
+    font-weight: 600;
+}
+h2{
+    color:#5e068a ;
+    
+}
+h1{
+    text-align: center;
+}
+span{
+    color:#5e068a99 ;
+    
+}
+fontcls{
+    font-size: 15px;
+    line-height: 28px;
+}
+.bt{
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+    background-color: #5e068a;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color:#5e068a;
+}

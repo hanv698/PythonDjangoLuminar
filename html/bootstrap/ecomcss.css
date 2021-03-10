@@ -1,0 +1,28 @@
+
+h1{
+    text-align: center;
+    color: rgb(2, 11, 51);
+    text-decoration: underline;
+    font-style: italic;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+h5{
+    color: darkcyan;
+    font-size: x-large;
+    font-weight: bold;
+}
+.rate{
+    color: rgb(214, 35, 35);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.card1{
+    margin-left: 20px;
+}
+.card2{
+    margin-left: 20px;
+}
+.btn{
+    margin-left: 32%;
+}

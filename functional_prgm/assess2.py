@@ -5,6 +5,7 @@ print("Enter elements:")
 for i in range(0,6):
     num=int(input())
     lst2.append(num)
+print(lst1)
 print(lst2)
 
 x=lst2[len(lst2)-1]

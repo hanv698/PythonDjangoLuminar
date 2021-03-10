@@ -15,7 +15,13 @@ isl=[
 from functools import reduce
 
 point_high=reduce(lambda p1,p2:p1 if p1>p2 else p2,list(map(lambda team:team["pts"],isl)))
-print(point_high)
+print("High score:",point_high)
 
 point_low=reduce(lambda p1,p2:p1 if p1<p2 else p2,list(map(lambda team:team["pts"],isl)))
-print(point_low)
+print("Low score:",point_low)
+
+high_gf=reduce(lambda gf1,gf2:gf1 if gf1>gf2 else gf2,list(map(lambda team:team["gf"],isl)))
+print("Highest goal faced:",high_gf)
+
+low_gf=reduce(lambda gf1,gf2:gf1 if gf1<gf2 else gf2,list(map(lambda team:team["gf"],isl)))
+print("Lowest goal faced:",low_gf)
